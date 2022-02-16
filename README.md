@@ -1,4 +1,4 @@
-# David's super maths functions
+# David's great maths functions
 
 This library includes the folowing functions:
 
